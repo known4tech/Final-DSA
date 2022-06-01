@@ -1,2 +1,2 @@
-# Final-DSA
-Class Wise Practice Questions 🔖
+# Final-DSA-Questions
+Day-1: Basic Java Practice Questions
